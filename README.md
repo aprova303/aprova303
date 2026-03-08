@@ -1,5 +1,18 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>Hi, I'm Ananya Prova, a passionate Mern Stack Developer from Bangladesh.<br><br>I enjoy building modern and scalable web applications and continuously learning new technologies. My primary focus is on the MERN stack, where I work with React, Node.js, Express,next.js and MongoDB to develop real-world applications.<br><br>I love solving problems, exploring new frameworks, and improving my development skills by building practical projects.
+![alt text](<github-stats-aprova303 -1.png>)
+
+
+## 👩‍💻 About Me<br><br>Hi, I'm Ananya Prova, a passionate Mern Stack Developer from Bangladesh.<br><br>I enjoy building modern and scalable web applications and continuously learning new technologies. My primary focus is on the MERN stack, where I work with React, Node.js, Express,next.js and MongoDB to develop real-world applications.<br><br>I love exploring new frameworks, and improving my development skills by building practical projects.
+
+🌱 Currently exploring **Next.js**
+
+💻 Building **Full Stack MERN Applications**
+
+🚀 Working on **City Issue Solve & Management System Projects**
+
+🧠 Practicing **Problem Solving with C++**
+
+📚 Learning more about **Backend Development & System Design**
+
 
 
 ## 🌐 Socials:
