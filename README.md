@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Mar 10, 2026, 01_33_09 AM" src="https://github.com/user-attachments/assets/56fe0cc7-3e03-4d8a-a4fa-5a451a8198bd" />
+<img alt="ChatGPT Image Mar 10, 2026, 01_33_09 AM" src="https://github.com/user-attachments/assets/56fe0cc7-3e03-4d8a-a4fa-5a451a8198bd" />
 
 ## 👩‍💻 About Me<br><br>Hi, I'm Ananya Prova, a passionate Mern Stack Developer from Bangladesh.<br><br>I enjoy building modern and scalable web applications and continuously learning new technologies. My primary focus is on the MERN stack, where I work with React, Node.js, Express,next.js and MongoDB to develop real-world applications.<br><br>I love exploring new frameworks, and improving my development skills by building practical projects.
 
