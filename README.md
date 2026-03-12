@@ -1,4 +1,4 @@
-![alt text](https://github.com/aprova303/aprova303/blob/4c00440c448467864309c7285acf767f4e27ced2/banner.png)
+https://github.com/user-attachments/assets/b8364769-c86f-4d42-bef6-f0fd850a7e83
 
 
 ## 👩‍💻 About Me<br><br>Hi, I'm Ananya Prova, a passionate Mern Stack Developer from Bangladesh.<br><br>I enjoy building modern and scalable web applications and continuously learning new technologies. My primary focus is on the MERN stack, where I work with React, Node.js, Express,next.js and MongoDB to develop real-world applications.<br><br>I love exploring new frameworks, and improving my development skills by building practical projects.
