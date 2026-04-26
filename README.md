@@ -1,4 +1,7 @@
-<img width="1536" height="389" alt="banner2" src="https://github.com/user-attachments/assets/e7b98724-9223-4390-b3f0-f566690cbdc4" />
+
+
+https://github.com/user-attachments/assets/a98bc9a6-d918-4645-bb72-5c375a99a063
+
 
 🌱 Currently exploring **Next.js**
 
