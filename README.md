@@ -9,8 +9,6 @@ https://github.com/user-attachments/assets/a98bc9a6-d918-4645-bb72-5c375a99a063
 
 🚀 Working on **City Issue Solve & Management System Projects**
 
-🧠 Practicing **Problem Solving with C++**
-
 📚 Learning more about **Backend Development & System Design**
 
 
